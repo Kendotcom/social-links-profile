@@ -76,6 +76,11 @@ body {
   border-radius: 6px;
 }
 
+.links button:hover {
+  background-color: var(--color-primary);
+  color: var(--color-neutral-Off-Black);
+}
+
 .attribution {
   text-align: center;
   position: absolute;
